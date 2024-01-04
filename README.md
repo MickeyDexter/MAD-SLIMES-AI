@@ -1,4 +1,4 @@
-# DREADED-BOT
+# MADDLIPZ SLIMES BOT
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
