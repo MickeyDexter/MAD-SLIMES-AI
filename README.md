@@ -1,5 +1,9 @@
 # MADDLIPZ SLIMES BOT
 
+z<p align="center">
+  <a href="https://github.com/Maddlipz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Slimes+maddlipz+botto;Heyoo+Maddslimes+bothere;Developed+by+Maddlipz~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+</p>
+
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## FEATURES
