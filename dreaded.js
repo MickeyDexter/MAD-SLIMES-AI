@@ -578,7 +578,7 @@ let cap = `╭════〘 *_💚SLIMES💚_* 〙═⊷❍
 if (menu === 'LINK') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./menu.mp4'),
+                        video: fs.readFileSync('./VID-20240106-WA0001.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
