@@ -26,7 +26,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/fork)
+- Fork this repo by tapping  [here](https://github.com/Maddlipz/MAD-SLIMES-AI-AI/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -73,5 +73,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
-Copyright (c) 2023 Dreaded-GPT-AI
+Copyright (c) 2024 MAD-SLIMES-AI
 
