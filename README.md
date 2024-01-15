@@ -1,6 +1,6 @@
 # MADDLIPZ SLIMES BOT
 
-    <p align="center">  
+    
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Slime" height="300" src="https://telegra.ph/file/f2bca609b18eb4c6f2a67.jpg">
 
