@@ -1,5 +1,7 @@
 # MADDLIPZ SLIMES BOT
 
+    <img alt="Slime" height="300" src="https://telegra.ph/file/f2bca609b18eb4c6f2a67.jpg">
+
 <p align="center">
   <a href="https://github.com/Maddlipz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Slimes+maddlipz+botto;Heyoo+Maddslimes+bot+here;Developed+by+Maddlipz;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
