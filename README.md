@@ -10,17 +10,12 @@
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
-╭══〘 *_OIIII_* 〙══⊷❍
-▯╭────────────···▸
-┴🐤✰│
-┃🐤✰│ ***This bot is created ┃🐤✰│with the help of ┃🐤✰│NodeJS AND uses [Baileys](https://github.com/adiwajshing/Baileys)***
-┃🐤✰│ 
-┃🐤✰│ ## FEATURES
+## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
 
 You will need an openai API key for AI features to work.
-┃🐤✰│ 
-┃🐤✰│ # SET-UP
+
+# SET-UP
 
 Linking/Pairing:
 
@@ -44,9 +39,16 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 - Add the environmental variables in .env into your hosting site for bot to work.
 </h2>
-┃🐤✰│ 
-┃🐤✰│ 
-┃🐤✰│ Termux procedure is given below.
+ 
+     
+
+     
+
+ 
+
+
+
+Termux procedure is given below.
  
 
 **Install Via Termux locally✅**
@@ -66,7 +68,7 @@ $ node index.js
 ```
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp or [here](mokayafortunatus@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254775618382) via WhatsApp or [here](simohgrafix01@gmail.c) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -76,6 +78,4 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
 Copyright (c) 2024 MAD-SLIMES-AI
-┬🐤✰│
-│╰────────────────❍
-╰════════════════⊷❍
+
