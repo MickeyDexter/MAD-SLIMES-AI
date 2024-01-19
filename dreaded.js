@@ -1872,10 +1872,34 @@ case "ping": case "speed": {
  } 
  break;
 
-case "alive": { 
-  
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/efd1bfa7961baf8ab6e20.jpg' }, caption: `oi ${m.pushName}, mad_slimes is active\n\nActive for:  ${runtime(process.uptime())}\n\nType ${prefix}help.\n\nYou can also interact with our online chatbot built with html and JavaScript with API integration.\n\nLink is given below:\n\nhttps://quantumlab.ru.eu.org/`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
- }
+case "alive":
+
+
+    const dooc = {
+        audio: {
+          url: ""
+        },
+        mimetype: 'audio/mp4',
+        ptt: true,
+        waveform:  [100, 0, 100, 0, 100, 0, 100],
+        fileName: "",
+
+        contextInfo: {
+          mentionedJid: [m.sender],
+          externalAdReply: {
+          title: "Hi human, I am Alive",
+          body: "",
+          thumbnailUrl: "https://telegra.ph/file/efd1bfa7961baf8ab6e20.jpg",
+          sourceUrl: '',
+          mediaType: 1,
+          renderLargerThumbnail: true
+          }}
+      };
+
+
+await client.sendMessage(m.chat, dooc, {quoted: m});
+
+
 break;
 case 'apk': {
 if (!text) throw `I need an apk name for download`;
