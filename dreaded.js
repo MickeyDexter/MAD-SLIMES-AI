@@ -1877,7 +1877,7 @@ case "alive":
 
     const dooc = {
         audio: {
-          url: "https://a.uguu.se/CPLJrTWj.mp4'"
+          url: "https://github.com/Maddlipz"
         },
         mimetype: 'audio/mp4',
         ptt: true,
@@ -1887,10 +1887,10 @@ case "alive":
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "Hi human, mad-slimes-ai is active",
-          body: "",
+          title: "Hi human, I am Alive",
+          body: "https://github.com/Maddlipz",
           thumbnailUrl: "https://telegra.ph/file/efd1bfa7961baf8ab6e20.jpg",
-          sourceUrl: '',
+          sourceUrl: "https://github.com/Maddlipz",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
