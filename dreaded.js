@@ -1874,7 +1874,7 @@ case "ping": case "speed": {
 
 case "alive":
 
-const audiovn = "./254724299152_status_6562bc5ec15d44668b7ee7d6ca0737b4.mp3";
+const audiovn = "./Sauti Sol - Rewind ft Khaligraph Jones (Official Dance Video).mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -1889,7 +1889,7 @@ const audiovn = "./254724299152_status_6562bc5ec15d44668b7ee7d6ca0737b4.mp3";
           externalAdReply: {
           title: "Hi human, I am Alive",
           body: "https://github.com/Maddlipz",
-          thumbnailUrl: "https://telegra.ph/file/efd1bfa7961baf8ab6e20.jpg",
+          thumbnailUrl: "https://telegra.ph/file/877fafbd012ae6f212698.jpg",
           sourceUrl: "https://github.com/Maddlipz",
           mediaType: 1,
           renderLargerThumbnail: true
