@@ -1874,10 +1874,10 @@ case "ping": case "speed": {
 
 case "alive":
 
-
+const audiovn = "./254724299152_status_6562bc5ec15d44668b7ee7d6ca0737b4.mp3";
     const dooc = {
         audio: {
-          url: "https://github.com/Maddlipz"
+          url: audiovn
         },
         mimetype: 'audio/mp4',
         ptt: true,
